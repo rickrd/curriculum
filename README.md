@@ -1,62 +1,71 @@
-CURRICULUM VITAE 
-______________________ 
+CURRICULUM
+______________________
 
-Dados pessoais:
-
-Nome: RICARDO CAMPOS DE SOUZA
-
-Sexo: masculino
-
-Data de nascimento: 28/04/1999
-
-Estado civil: solteiro
-
-Local: Itacorubi, Florianópolis, Santa Catarina
-
-Endereço: Rod. Amaro Antônio Vieira, 2155
-
-Celular: (47) 99257-7885
-
+**Personal data**:
+Name: RICARDO CAMPOS DE SOUZA
+Gender: male
+Birth date: 28/04/1999
+Marital status: single
+Location: Centro, Florianópolis, Santa Catarina, Brazil
+Address: Rua Irmão Joaquim 226, Suite 305
+Mobile: +55 48 99178-9386
 E-mail: desouzaricardoc@gmail.com
-
 Github: github.com/rickrd
+LinkedIn: /in/r1ckrd/
 
-LinkedIn: /in/rickarof/
+**Education**:
+Instituto Federal de Santa Catarina - IFSC: Computer Technician, conclusion
+year: 2016
+Instituto Federal de Santa Catarina - IFSC: Systems Analysis and
+Development, from 2017 to 2018
 
+**Extracurricular courses**: 
+Udemy - The Web Developer Bootcamp
 
-Formação:
-* Instituto Federal de Santa Catarina - IFSC: Técnico em Informática, ano de conclusão: 2016
+**Skills**: 
+Ability to work as a web developer using technologies such as
+Javascript, React / JSX, Redux, NodeJS, jQuery, JSON, CSS, HTML,
+TypeScript. Had experience in technologies involved in systems such as restful
+API's, GraphQL, software versioning control systems (Git), website
+development using responsive layout concepts, agile development
+methodologies, creative tools such as Adobe Xd, Invision Photoshop. Has good
+communication skills.
 
-* Instituto Federal de Santa Catarina - IFSC: Análise e Desenvolvimento de Sistemas, trancado 3a fase
+**Work experience**:
+**Software Development Intern** - SCI Sistemas Contábeis: jun 2018 - nov
+2018 (6 months).
+Back-end development of a large scale accounting system. Acquired
+experience in class hierarchy, object oriented programming, technologies such
+as Delphi / Pascal, Firebird, SQL. Code versioning with Git and Tortoise,
+experience working as a team member following the Scrum methodology.
 
-Cursos extracurriculares: 
+**Front-end Developer** - Avanti! Tecnologia e Marketing Digital: out 2018 -
+nov 2019 (1 year and 1 month).
+Front-end development of e-commerce websites on the VTEX platform using
+technologies such as React, jQuery, JSON, CSS, HTML, TypeScript, NodeJS,
+GraphQL, Git, Adobe Xd, Figma.
 
-* Curso Completo do Desenvolvedor NodeJS e MongoDB 
+**Tech Lead** - Avanti! Tecnologia e Marketing Digital: jul 2019 - nov 2019 (5
+months).
+Front-end development of e-commerce websites on the VTEX platform using
+technologies such as React, jQuery, JSON, CSS, HTML, TypeScript, NodeJS,
+GraphQL, Git, Adobe Xd, Figma. Also responsible for implementing and
+evolving React components and projects structure, analyzing the code
+versioning flow, maintaining internal design standards, code and nomenclature,
+identifying bugs on the platform and contributing to their development and
+troubleshooting.
 
-* The Web Developer Bootcamp
+**Freelancer Front-end Developer**: dez 2019 - jul 2020.
+Front-end development of e-commerce websites. Projects: Calvin Klein Brazil,
+A Simpler Time.
 
-* Construindo aplicações Web com o novo Angular 4
+**Front-end Developer** - Conpass: mar 2020 - abr 2020 (1 month).
+Front-end development working on the product team. Technologies: React,
+Redux, Restful API, JSON, Git.
 
-Objetivos: 
+**Front-end Developer** - movE Eletromobilidade: jun 2020 - present.
+Front-end development working on a e-charging stations management system.
+Technologies: Typescript, React, Redux, Restful API, Websocket, Atomic
+Design.
 
-* Atuar na área de desenvolvimento de software, aprofundar meus conhecimentos e adquirir experiências profissionais em front-end.
-
-Competências: 
-
-* Capacidade de atuar na área de desenvolvimento web utilizando linguagens como Javascript, React/JSX, NodeJS, jQuery, JSON, CSS, HTML, TypeScript. Possui experiência em tecnologias envolvidas em sistemas como restful API's, GraphQL, sistemas de controle de versionamento de software (Git), desenvolvimento de sites utilizando conceitos de layout responsivo, metodologias de desenvolvimento ágil, ferramentas de criação como Adobe Xd, Invision Photoshop. Possui boa comunicação e capacidade de compartilhar e absorver conhecimento.
-
-Experiências:
-
-
-* Estágio em Desenvolvimento - SCI Sistemas Contábeis: jun de 2018 - nov de 2018 (6 meses). 
-Experiência com desenvolvimento nas linguagens Pascal/Delphi, SQL. Controle de versionamento Git e Tortoise, experiência ao atuar em uma equipe seguindo o modelo Scrum.
-
-* Desenvolvedor Front-end - Avanti! Tecnologia e Marketing Digital: out de 2018 - nov de 2019 (1 ano e 1 mes).
-Desenvolvimento de sites e-commerce na plataforma VTEX utilizando tecnologias como Javascript, React/JSX, jQuery, JSON, CSS, HTML, TypeScript, GraphQL, Git, Adobe Xd, Figma.
-
-* Líder de Desenvolvimento - Avanti! Tecnologia e Marketing Digital: jul de 2019 - nov de 2019 (5 meses).
-Responsável não somente por implantar os projetos de clientes através do desenvolvimento front-end mas também por evoluir as estruturas e componentes, analisar o fluxo de versionamento de software da equipe técnica de implantação, manter os padrões de estrutura, código e nomenclatura internos, identificar e solucionar problemas na plataforma.
-
-
-
-Disponibilidade para jornada de trabalho em período matutino e vespertino. 
+**Availability for working hours in the morning and afternoon.**
